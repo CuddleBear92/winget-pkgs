@@ -13,4 +13,4 @@ jobs:
         komac-token: ${{ secrets.KOMAC_TOKEN }}
         identifier: "HydrusNetwork.HydrusNetwork"
         repo: "hydrusnetwork/hydrus"
-        URL: "https://github.com/hydrusnetwork/hydrus/releases/download/v607a/Hydrus.Network.607a.-.Windows.-.Installer.exe"
+        URL: "https://github.com/hydrusnetwork/hydrus/releases/download/v607a/Hydrus.Network.{VERSION}.-.Windows.-.Installer.exe"
